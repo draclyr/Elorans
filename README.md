@@ -24,10 +24,16 @@
 <br />
 
 ## ⚙️Project usage guide:
-1. Install the template packages via the code below: npm install
+1. Install the template packages via the code below: 
+```bash
+npm install
+```
 2. Create Stripe Account For Products
 3. Insert STRIPE code into the file: stripe.ts
-4. And finally, in the terminal, run the code: npm run dev
+4. And finally, in the terminal, run the code: 
+```bash
+npm run dev
+```
 <br>
 <p>I will be very happy if you rate the project❤️</p>
 
